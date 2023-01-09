@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+div {
+    margin: 12px;
+};
+body {
+    min-height: 400px;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
+
+.form-1 {
+    width: 40%;
+    border: 8px solid rgb(152, 152, 26);
+    text-align: center;
+    
+}
+.title {
+    text-align: center;
+    padding: 12px 0;
+    background-color: #ccc;
+    color: #fff;
+}
+.check {
+    display: inline-block;
+}
+.name {
+    display: inline-block;
+    width: 40%;
+}
