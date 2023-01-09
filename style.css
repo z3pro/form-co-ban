@@ -8,8 +8,6 @@ body {
     font-family: arial,sans-serif;
     border-collapse: collapse;
     width: 100%;
-    justify-content: center;
-    display: flex;
 }
 
 .form-1 {
