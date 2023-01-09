@@ -3,9 +3,6 @@
     margin: 0;
     box-sizing: border-box;
 }
-div {
-    margin: 12px;
-}
 body {
     min-height: 400px;
     font-family: arial,sans-serif;
@@ -27,7 +24,11 @@ body {
     background-color: #ccc;
     color: #fff;
 }
+.check1 {
+    margin: 12px;
+}
 .check {
+    margin: 12px;
     display: inline-block;
 }
 .name {
